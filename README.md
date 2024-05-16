@@ -1,4 +1,4 @@
-# README.md
+# Bankloans.md
 
 Credit Risk Analysis
 Bu proje, kredi riskini analiz etmek için kullanılan veri bilimi ve makine öğrenimi tekniklerini içerir. Aşağıda proje hakkında detaylı bilgi ve kullanılan teknikler yer almaktadır.
